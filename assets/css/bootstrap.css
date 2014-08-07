@@ -4263,7 +4263,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 @media (min-width: 768px) {
   .navbar-nav {
     margin: 0 auto;
-    width: 30%;
+    width: 26%;
   }
   .navbar-nav > li {
     float: left;
